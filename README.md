@@ -46,29 +46,32 @@ class Janardan:
 
 ## 🛠️ Tech Stack
 
-*(also work with NumPy, Pandas, Hugging Face Transformers, Google Colab & Jupyter — no square icon for those, so keeping this row icon-only)*
-
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=py,cpp,c,js" />
 </p>
 
 ### AI / ML
+
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
 ### Web / Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,django,fastapi" />
 </p>
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,ghactions" />
 </p>
@@ -86,14 +89,14 @@ class Janardan:
 
 ## 📌 Featured Work
 
-| Project | Description | Stack | Repo |
-|---|---|---|---|
-| **Nepali ASR for Medical Speech** | Low-resource Whisper fine-tune for Nepali medical-domain conversational speech, built @ AI Lab. | `PyTorch`, `Whisper`, `IndicNLP` | Private (work) |
-| **Autonomous Vehicle Safety & Navigation** | Hybrid MPC + PPO RL controller in CARLA — cut collision rate from ~15% to <5%. | `PyTorch`, `CARLA`, `PPO`, `YOLO` | [View repo](https://github.com/Baebabe/Autonomous-Vehicle-Safety-and-Navigation-through-AI) |
-| **MSC Workflow System** | Restored and modernized a Django-based academic workflow system; containerized and deployed via Docker. | `Django`, `SQLite`, `Docker` | [View repo](https://github.com/JanardanBhetwal/MSC_Workflow) |
-| **Parallel Sorting Visualization Engine** | Real-time, multithreaded visualizer comparing sequential vs. parallel sorting algorithms. | `C++`, `SFML`, `std::thread` | [View repo](https://github.com/JanardanBhetwal/visualEngine) |
-| **Nepali Music Style Transfer** | MIDI-VAE-inspired symbolic style transfer for Nepali folk music, feeding a LoRA-finetuned diffusion stage. | `VAEs`, `LoRA`, `Diffusion` | Academic project |
-| **Object-Centric 4D Scene Editing** | Text-prompt-driven editing pipeline on Instruct-4DGS; PSNR 19.25 → 29.15 on the N3DV benchmark. | `4DGS`, `Grounded-SAM`, `InstructPix2Pix` | Academic project |
+| Project                                    | Description                                                                                                | Stack                                     | Repo                                                                                        |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Nepali ASR for Medical Speech**          | Low-resource Whisper fine-tune for Nepali medical-domain conversational speech, built @ AI Lab.            | `PyTorch`, `Whisper`, `IndicNLP`          | Private (work)                                                                              |
+| **Autonomous Vehicle Safety & Navigation** | Hybrid MPC + PPO RL controller in CARLA — cut collision rate from ~15% to <5%.                             | `PyTorch`, `CARLA`, `PPO`, `YOLO`         | [View repo](https://github.com/Baebabe/Autonomous-Vehicle-Safety-and-Navigation-through-AI) |
+| **MSC Workflow System**                    | Restored and modernized a Django-based academic workflow system; containerized and deployed via Docker.    | `Django`, `SQLite`, `Docker`              | [View repo](https://github.com/JanardanBhetwal/MSC_Workflow)                                |
+| **Parallel Sorting Visualization Engine**  | Real-time, multithreaded visualizer comparing sequential vs. parallel sorting algorithms.                  | `C++`, `SFML`, `std::thread`              | [View repo](https://github.com/JanardanBhetwal/visualEngine)                                |
+| **Nepali Music Style Transfer**            | MIDI-VAE-inspired symbolic style transfer for Nepali folk music, feeding a LoRA-finetuned diffusion stage. | `VAEs`, `LoRA`, `Diffusion`               | Academic project                                                                            |
+| **Object-Centric 4D Scene Editing**        | Text-prompt-driven editing pipeline on Instruct-4DGS; PSNR 19.25 → 29.15 on the N3DV benchmark.            | `4DGS`, `Grounded-SAM`, `InstructPix2Pix` | Academic project                                                                            |
 
 More on my GitHub profile: [janardanbhetwal](https://github.com/janardanbhetwal?tab=repositories)
 
@@ -130,5 +133,3 @@ More on my GitHub profile: [janardanbhetwal](https://github.com/janardanbhetwal?
   <a href="https://medium.com/@janardan44">Medium</a> ·
   <a href="mailto:bhetwaljanardan@gmail.com">Email</a>
 </p>
-
-
